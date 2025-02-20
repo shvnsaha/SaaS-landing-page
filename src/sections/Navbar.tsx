@@ -2,7 +2,7 @@ import Image from "next/image";
 import logoImage from "@/assets/images/logo.svg"
 import { GiHamburgerMenu } from "react-icons/gi";
 import Button from "@/components/Button";
-import { a } from "framer-motion/client";
+
 
 const navLinks = [
     { label: "Home", href: "#" },
